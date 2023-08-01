@@ -1,0 +1,40 @@
+Image | Slots | Logical? | partition-size
+apusys.img | A/B | no | 0x400000
+audio_dsp.img | A/B | no | 0xC00000
+boot.img | A/B |no | 0x4000000
+ccu.img | A/B | no | 0x400000
+cdt_engineering.img | A/B | no | 0xC80000
+dpm.img | A/B | no | 0x400000
+dtbo.img | A/B | no | 0x800000
+gpueb.img | A/B | no | 0x100000
+gz.img | A/B | no | 0x2000000
+lk.img | A/B | no | 0x500000
+logo.img | A/B | no | 0x2000000
+mcupm.img | A/B | no | 0x100000
+mvpu_algo.img | A/B | no | 0x4000000
+my_bigball.img | A/B | yes | 0x3195C000
+my_carrier.img | A/B | yes | 0x52000
+my_engineering.img | A/B | yes | 0x52000
+my_heytap.img | A/B | yes | 0x2DEC7000
+my_manifest.img | A/B | yes | 0x5E000
+my_product.img | A/B | yes | 0x13815000
+my_region.img | A/B | yes | 0x37D000
+my_stock.img | A/B | yes | 0x28C1F000
+odm_dlkm.img | A/B | yes | 0x55000
+odm.img | A/B | yes | 0x477D9000
+pi_img.img | A/B | no | 0x100000
+preloader_raw.img | A/B | no |0x3FF000
+product.img | A/B | yes | 0x1E9000
+scp.img | A/B | no | 0x600000
+spmfw.img | A/B | no | 0x100000
+sspm.img | A/B | no | 0x100000
+system_ext.img | A/B | yes | 0x3D751000
+system.img | A/B | yes | 0x3113E000
+tee.img | A/B | no | 0x500000
+vbmeta.img | A/B | no | 0x800000
+vbmeta_system.img | A/B | no | 0x800000
+vbmeta_vendor.img | A/B | no | 0x800000
+vcp.img | A/B | no | 0x600000
+vendor_boot.img | A/B | no | 0x4000000
+vendor_dlkm.img | A/B |yes | 0x35BA000
+vendor.img | A/B | yes | 0x422E3000
